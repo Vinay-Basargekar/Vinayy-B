@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Vinay, a Computer Science student.
 
-<img height="400" width="500" alt="GIF" align="right" src="C:\Users\vinay\Vinayy-B\Vinayy-B\1936.gif">
+<img height="400" width="500" alt="GIF" align="right" src="1936.gif">
 
 ### - Learning:
 - ✨ Data Structures & Algorithms
