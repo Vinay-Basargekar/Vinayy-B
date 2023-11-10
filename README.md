@@ -1,20 +1,28 @@
-# Hello World
-# About ME 💬 :
+# Hi there! 👋 I'm Vinay, a Computer Science student.
 
-### - I'm 19 years  old Machine Learning & Artificial Intelligence Enthusiast from India.
+<img height="400" width="500" alt="GIF" align="right" src="C:\Users\vinay\Vinayy-B\Vinayy-B\1936.gif">
 
-<img hight="400" width="500" alt="GIF" align="right" src="C:\Users\vinay\Vinayy-B\Vinayy-B\1936.gif">
-
-### - Learning :
+### - Learning:
 - ✨ Data Structures & Algorithms
-- ✨ Generative Adversarial Networks
+- ✨ Exploring the magic of Generative Adversarial Networks
+- ✨ Diving into the world of Web Development
 
-### - Hobbies : 
-- ✨ Gaming Addict
-- ✨ Watching Anime
+### - Hobbies:
+- ✨ Anime Aficionado
 - ✨ Reading Light Novels
-- ✨ Badminton (Neighbourhood Professional XD)
+- ✨ Playing Football
+- ✨ Exploring the latest in Technology
+- ✨ Reading Self-Help Books
 
 </br>
 </br>
 </br>
+
+## Let's Connect!
+
+<!-- - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/yourusername/)
+- 🐦 Follow me on [Twitter](https://twitter.com/yourusername/)
+- 🎮 Join me on [Steam](https://steamcommunity.com/id/yourusername/) -->
+
+Excited about exploring the realms of both AI, Web Development, and everything in between! Let's connect and learn together! 🚀✨
+
