@@ -20,9 +20,8 @@
 
 ## Let's Connect!
 
-<!-- - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/yourusername/)
-- 🐦 Follow me on [Twitter](https://twitter.com/yourusername/)
-- 🎮 Join me on [Steam](https://steamcommunity.com/id/yourusername/) -->
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/vinay-basargekar/)
+
 
 Excited about exploring the realms of both AI, Web Development, and everything in between! Let's connect and learn together! 🚀✨
 
