@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Vinay, a Computer Science student.
+# Hi there! 👋 I'm Vinay!
 
 <img height="400" width="500" alt="GIF" align="right" src="1936.gif">
 
