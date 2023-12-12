@@ -2,8 +2,6 @@
 
 <img height="300" width="400" alt="GIF" align="right" src="Peng.jpeg">
 
-</br>
-
 ### - Learning:
 - ✨ Data Structures & Algorithms
 - ✨ Exploring the magic of Generative Adversarial Networks
