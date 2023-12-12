@@ -15,8 +15,6 @@
 - ✨ Reading Self-Help Books
 
 </br>
-</br>
-</br>
 
 ## Let's Connect!
 
