@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Vinay!
 
-<img height="400" width="500" alt="GIF" align="right" src="1936.gif">
+<img height="400" width="500" alt="GIF" align="right" src="peng.jpeg">
 
 ### - Learning:
 - ✨ Data Structures & Algorithms
